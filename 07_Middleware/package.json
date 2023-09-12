@@ -1,7 +1,7 @@
 {
-  "name": "06_ExpressJS",
+  "name": "07_Middleware",
   "version": "1.0.0",
-  "description": "ExpressJs",
+  "description": "Middleware",
   "main": "server.js",
   "scripts": {
     "start": "node server",
