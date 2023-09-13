@@ -1,0 +1,3 @@
+20230912	08:11:37	9a92cf86-0832-48a7-af12-3774f5a202a8	TypeError: fsPromises.readFil is not a function
+20230912	09:42:42	ecf5e5f1-7a80-4c3f-b52f-535668d78d65	Error: Not allowed by CORS
+20230913	08:20:42	ea5a7220-9ee9-4a42-8450-42bb7bb7bc90	ReferenceError: emplyee is not defined
