@@ -1,0 +1,11 @@
+20230912	08:11:37	9a92cf86-0832-48a7-af12-3774f5a202a8	TypeError: fsPromises.readFil is not a function
+20230912	09:42:42	ecf5e5f1-7a80-4c3f-b52f-535668d78d65	Error: Not allowed by CORS
+20230913	08:20:42	ea5a7220-9ee9-4a42-8450-42bb7bb7bc90	ReferenceError: emplyee is not defined
+20230914	10:27:39	6044e3aa-4303-43ad-ad6f-66ffb79127f0	Error: secretOrPrivateKey must have a value
+20230914	10:30:17	72bbf288-0071-4571-8a8f-99e9794b209d	Error: secretOrPrivateKey must have a value
+20230914	10:44:14	dea77760-c3ba-467a-ba53-4921d8c27bb1	ReferenceError: decode is not defined
+20230914	12:34:55	f94e56a2-bef1-4f5e-9469-500836d15286	TypeError: Cannot read properties of undefined (reading 'username')
+20230914	12:35:15	91db9dbf-b087-4ddd-b1f0-4b720ebb557b	TypeError: Cannot read properties of undefined (reading 'username')
+20230914	12:40:09	aed773c5-ec58-4b02-82cd-f7d3292249c6	TypeError: Cannot read properties of undefined (reading 'username')
+20230914	12:41:48	f5f1c74a-96a9-4cfc-9bcf-c3f225e412e6	TypeError: Cannot read properties of undefined (reading 'username')
+20230914	12:57:28	f8737dd2-e8a6-4247-9db3-41f100da0925	ReferenceError: val is not defined
