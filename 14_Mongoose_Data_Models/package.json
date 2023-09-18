@@ -1,5 +1,5 @@
 {
-  "name": "13_MongoDB_And_Mongoose",
+  "name": "14_Mongoose_Data_Models",
   "version": "1.0.0",
   "description": "Middleware",
   "main": "server.js",
